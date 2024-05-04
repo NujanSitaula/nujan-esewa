@@ -8,7 +8,7 @@ This package provides a seamless integration of the eSewa payment gateway into a
 You can install the package via composer:
 
 ```bash
-composer require nujan/esewa
+composer require nujan/esewa:@dev
 ```
 
 After installing the package, publish the configuration file:
