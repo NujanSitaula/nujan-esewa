@@ -58,7 +58,7 @@ $response = $esewa->sendPaymentRequest($data);
 
 ## License
 
-The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+The MIT License (MIT). Please see [License File](LICENSE) for more information.
 ```
 
 Please replace `your_merchant_code`, `your_secret_key`, and `your_api_endpoint` with your actual eSewa merchant code, secret key, and API endpoint.
