@@ -1,0 +1,26 @@
+{
+    "name": "nujan/esewa",
+    "description": "Package to seamlessly integrate eSewa payment gateway to laravel project.",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Nujan\\Esewa\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "NujanSitaula",
+            "email": "nujan.sitaula@outlook.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Nujan\\Esewa\\EsewaServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
